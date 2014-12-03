@@ -27,11 +27,9 @@ lloydsHomeControllers.controller('PropertyDetailsController', [
         '$scope',
         '$routeParams',
         function ($scope, $routeParams) {
-            $scope.listing_id = $routeParams.listing_id;
-            $scope.property_details = {
-                "listing_id": "28972518",
-                "description": "Rarely to the open market a spacious penthouse in the heart of the City. This bright home extends to 1579 square foot and comprises 3 double bedrooms, two bathrooms and a large 41 foot reception room. A 300sqft+ terrace enjoys city views with the world famous Tower Bridge visible to the south. The property would make an ideal home or pied-a-terre.  Aldgate is enjoying a huge amount of investment with some very exciting redevelopment in the area. Located to the east of the Square Mile Aldgate Tube station is minutes away with Tower Hill (District and Circle line) and the DLR in close proximity.",
-                "image_url": "http://li.zoocdn.com/59999f4551cec97a548ef62d834556fda2e51e82_354_255.jpg"
-            };
+            $scope.property_details = {};
+            $scope.property_details.listing_id = $routeParams.listing_id;
+            $scope.property_details.description = "Rarely to the open market a spacious penthouse in the heart of the City. This bright home extends to 1579 square foot and comprises 3 double bedrooms, two bathrooms and a large 41 foot reception room. A 300sqft+ terrace enjoys city views with the world famous Tower Bridge visible to the south. The property would make an ideal home or pied-a-terre.  Aldgate is enjoying a huge amount of investment with some very exciting redevelopment in the area. Located to the east of the Square Mile Aldgate Tube station is minutes away with Tower Hill (District and Circle line) and the DLR in close proximity.";
+            $scope.property_details.image_url = "http://li.zoocdn.com/59999f4551cec97a548ef62d834556fda2e51e82_354_255.jpg";
         }]
 );
