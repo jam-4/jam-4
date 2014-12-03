@@ -22,12 +22,17 @@
     <body ng-controller="PropertyListingsController">
         <h4>Property listings in Tower Hill</h4>
 
-        <ul>
-            <li ng-repeat="property in properties">
-                <span>{{property.description}}</span>
-                <img ng-src="{{property.image_url}}" />
-            </li>
-        </ul>
+
+        <div class="container-fluid">
+            <div class="row" ng-repeat="property in properties">
+                <div class="col-lg-3">
+                    <img ng-src="{{property.image_url}}" />
+                </div>
+                <div class="col-lg-9">
+                    <div>{{property.description}}</div>
+                </div>
+            </div>
+        </div>
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

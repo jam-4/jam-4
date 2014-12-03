@@ -11,8 +11,10 @@ lloydsHomeApp.controller('PropertyListingsController', function ($scope) {
             "image_url": "http://li.zoocdn.com/3591e51531d6d6682b29d3832b83765459bd244b_354_255.jpg"
         },
         {
-            "description": "Short let - city - A selection of serviced apartments located in the heart of the City close to Tower Hill and Fenchurch Street stations, whilst the River Thames and The Tower of London are also nearby. (contd...)",
-            "image_url": "http://li.zoocdn.com/f57ded99b9115e6d26b60181701796b9d45f3a82_354_255.jpg"
+            "description": "Exclusively available on a short term rental is this selection of superbly furnished serviced one bedroom apartments within easy reach of London's financial district, located on a quiet side street close to local restaurants, coffee shops and bars and the excellent facilities of St. (contd...)",
+            "image_url": "http://li.zoocdn.com/6f149b08b6ece1c35b371e03ae537696f181ea9c_354_255.jpg"
         }
     ];
+
+
 });
