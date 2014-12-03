@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 public class PropertyResource {
 
     public static final String STRING_ENCODING = "UTF-8";
-    
+
     private static final String API_BASE_URL = "http://api.zoopla.co.uk/api/v1/property_listings.js?api_key=gzj2nbsj5cy9x3b5gqwdtake&";
     private static final String API_AREA_PARAMETER_KEY = "area=";
     private static final String API_LISTING_ID_PARAMETER_KEY = "listing_id=";
@@ -55,8 +55,12 @@ public class PropertyResource {
         }
 
         String query = API_BASE_URL + API_AREA_PARAMETER_KEY + URLEncoder.encode(area, STRING_ENCODING);
+        System.out.println(" --> PropertyResource : About to call '" + query + "'");
 
-        return new JsonReader().readJsonFromUrl(query);
+        String json = new JsonReader().readJsonFromUrl(query);
+        System.out.println(" --> PropertyResource : Query result : '" + json + "'");
+
+        return json;
     }
 
     @GET
@@ -107,8 +111,12 @@ public class PropertyResource {
         }
 
         String query = API_BASE_URL + API_LISTING_ID_PARAMETER_KEY + URLEncoder.encode(listingId, STRING_ENCODING);
+        System.out.println(" --> PropertyResource : About to call '" + query + "'");
 
-        return new JsonReader().readJsonFromUrl(query);
+        String json = new JsonReader().readJsonFromUrl(query);
+        System.out.println(" --> PropertyResource : Query result : '" + json + "'");
+
+        return json;
     }
 
 }
