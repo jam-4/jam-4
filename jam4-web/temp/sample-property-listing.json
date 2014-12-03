@@ -1,0 +1,443 @@
+{
+    "result_count": 21,
+    "longitude": -0.0761165,
+    "area_name": "",
+    "listing": [
+        {
+            "image_caption": "",
+            "status": "for_sale",
+            "num_floors": "0",
+            "listing_status": "sale",
+            "num_bedrooms": "3",
+            "agent_name": "Stirling Ackroyd - Shoreditch",
+            "latitude": 51.512405,
+            "agent_address": "40 Great Eastern Street",
+            "num_recepts": "1",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.075884,
+            "first_published_date": "2014-05-27 13:52:24",
+            "displayable_address": "Fenchurch House, Minories, London EC3N",
+            "floor_plan": ["http://lc.zoocdn.com/ef8f4310ae45239c135ee0ca705dc8f88295056c.gif"],
+            "street_name": "Fenchurch House, Minories",
+            "num_bathrooms": "2",
+            "thumbnail_url": "http://li.zoocdn.com/59999f4551cec97a548ef62d834556fda2e51e82_80_60.jpg",
+            "description": "Rarely to the open market a spacious penthouse in the heart of the City. This bright home extends to 1579 square foot and comprises 3 double bedrooms, two bathrooms and a large 41 foot reception room. A 300sqft+ terrace enjoys city views with the world famous Tower Bridge visible to the south. The property would make an ideal home or pied-a-terre.  Aldgate is enjoying a huge amount of investment with some very exciting redevelopment in the area. Located to the east of the Square Mile Aldgate Tube station is minutes away with Tower Hill (District and Circle line) and the DLR in close proximity. ",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/for-sale/details/33249223?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(146455).png",
+            "price_change": [
+                {
+                    "date": "2014-05-27 12:40:38",
+                    "price": "1650000.00"
+                },
+                {
+                    "date": "2014-07-18 00:10:48",
+                    "price": "1435000.00"
+                },
+                {
+                    "date": "2014-08-29 00:11:32",
+                    "price": "1400000.00"
+                }
+            ],
+            "short_description": "Rarely to the open market a spacious penthouse in the heart of the City. This bright home extends to 1579 square foot and comprises 3 double bedrooms, two bathrooms and a large 41 foot reception room. A 300sqft+ terrace enjoys city views with the world famous Tower Bridge visible to the south. The property would make an ideal home or pied-a-terre.  Aldgate is enjoying a huge amount of investment with some very exciting redevelopment in the area. Located to the east of the Square Mile Aldgate Tube station is minutes away with Tower Hill (District and Circle line) and the DLR in close proximity. ",
+            "agent_phone": "020 3318 7096",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/59999f4551cec97a548ef62d834556fda2e51e82_354_255.jpg",
+            "last_published_date": "2014-11-27 09:15:40",
+            "county": "London",
+            "price": "1400000",
+            "listing_id": "33249223"
+        },
+        {
+            "image_caption": "Reception",
+            "status": "for_sale",
+            "num_floors": "0",
+            "listing_status": "sale",
+            "num_bedrooms": "2",
+            "agent_name": "Knight Frank - Wapping",
+            "latitude": 51.512405,
+            "agent_address": "1 Wapping High Street",
+            "num_recepts": "1",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.075884,
+            "first_published_date": "2014-11-26 12:01:06",
+            "displayable_address": "Fenchurch House, 136-138 Minories, London EC3N",
+            "floor_plan": ["http://lc.zoocdn.com/263e9779bfbf3c95a83adb6060aee9b9487a26f0.pdf"],
+            "street_name": "Fenchurch House",
+            "num_bathrooms": "2",
+            "thumbnail_url": "http://li.zoocdn.com/3591e51531d6d6682b29d3832b83765459bd244b_80_60.jpg",
+            "description": "The apartment is situated on the second floor of a 1950s Art Deco style Building. This well presented property has two double bedrooms, with en suite to master, a modern separate kitchen and a spacious reception/dining room.The property is ideally placed for anyone working in the City or Canary Wharf. There are a variety of local amenities with the vibrant Brick Lane or St Katherine's docks being a short walk away.The Minories is within easy reach of both Aldgate (Metropolitan line) and Tower Hill (District and Circle line) tube stations as well as Tower Gateway DLR.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/for-sale/details/35275235?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(131825).png",
+            "price_change": [
+                {
+                    "date": "2014-11-25 20:30:24",
+                    "price": "699950.00"
+                }
+            ],
+            "short_description": "A spacious two bedroom apartment in the heart of the City - The apartment is situated on the second floor of a 1950s Art Deco style Building. This well presented property has two double bedrooms, with en suite to master, a modern separate kitchen and a spacious reception/dining room.  The property is ideally placed for anyone working in the City or Canary Wharf. There are a variety of local amenities with the vibrant Brick Lane or St Katherine's docks being a short walk away.",
+            "agent_phone": "020 3641 4747",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/3591e51531d6d6682b29d3832b83765459bd244b_354_255.jpg",
+            "last_published_date": "2014-11-27 08:52:15",
+            "county": "London",
+            "price": "699950",
+            "listing_id": "35275235"
+        },
+        {
+            "image_caption": "Picture No.01",
+            "rental_prices": {
+                "per_week": "1190",
+                "accurate": "per_week",
+                "per_month": "5157"
+            },
+            "status": "to_rent",
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "2",
+            "agent_name": "Keatons - Shoreditch",
+            "latitude": 51.51187,
+            "agent_address": "6-8 Great Eastern Street",
+            "num_recepts": "0",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.07569,
+            "first_published_date": "2013-05-14 00:19:30",
+            "displayable_address": "Vine Street, London EC3N",
+            "street_name": "London",
+            "num_bathrooms": "0",
+            "thumbnail_url": "http://li.zoocdn.com/6f149b08b6ece1c35b371e03ae537696f181ea9c_80_60.jpg",
+            "description": "Exclusively available on a short term rental is this selection of superbly furnished serviced two bedroom apartments within easy reach of London's financial district, located on a quiet side street close to local restaurants, coffee shops and bars and the excellent facilities of St. Katherines Dock. Apartments are fully furnished and equipped with all modern conveniences and contemporary design and modern. There is a maid service, broadband and utilities are included (excl telephone calls). Prices are subject to date and duration of Stay. Minimum stay 7 nights. Vat charged at 20% for the first 28 days and 4% thereafter.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/28972518?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(56069).jpeg",
+            "price_change": [
+                {
+                    "date": "2013-05-13 17:35:39",
+                    "price": "1190.00"
+                }
+            ],
+            "short_description": "Exclusively available on a short term rental is this selection of superbly furnished serviced two bedroom apartments within easy reach of London's financial district, located on a quiet side street close to local restaurants, coffee shops and bars and the excellent facilities of St. (contd...)",
+            "agent_phone": "020 7768 1145",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/6f149b08b6ece1c35b371e03ae537696f181ea9c_354_255.jpg",
+            "last_published_date": "2014-11-27 12:19:33",
+            "county": "London",
+            "price": "1190",
+            "listing_id": "28972518"
+        },
+        {
+            "image_caption": "Picture No.04",
+            "rental_prices": {
+                "per_week": "980",
+                "accurate": "per_week",
+                "per_month": "4247"
+            },
+            "status": "to_rent",
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "1",
+            "agent_name": "Currell - Clerkenwell",
+            "latitude": 51.51187,
+            "agent_address": "122-124 St John Street",
+            "num_recepts": "0",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.07569,
+            "first_published_date": "2014-03-18 00:52:47",
+            "displayable_address": "Vine Street, Fenchurch Street EC3N",
+            "street_name": "Fenchurch Street London",
+            "num_bathrooms": "0",
+            "thumbnail_url": "http://li.zoocdn.com/f57ded99b9115e6d26b60181701796b9d45f3a82_80_60.jpg",
+            "description": " Key features: â€¢ short letâ€¢ In the heart of The Cityâ€¢ Fully Furnishedâ€¢ One & two bedrooms availableshort let - city - A selection of serviced apartments located in the heart of the City close to Tower Hill and Fenchurch Street stations, whilst the River Thames and The Tower of London are also nearby. Accommodation is offered on a minimum one month stay basis, one and two bedroom layouts are available. Each of the apartments are decorated to the same high, contemporary standard, featuring fully equipped kitchens and modern bathrooms (two bedroom apartments offering an additional en-suite bathroom). Prices are exclusive of vat. Pictures are for illustrative purposes only and though reflect the quality of furnishings and decoration but may not be wholly representative of all apartments.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/32356677?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(251213).png",
+            "price_change": [
+                {
+                    "date": "2014-03-17 18:10:21",
+                    "price": "980.00"
+                }
+            ],
+            "short_description": "Short let - city - A selection of serviced apartments located in the heart of the City close to Tower Hill and Fenchurch Street stations, whilst the River Thames and The Tower of London are also nearby. (contd...)",
+            "agent_phone": "020 3318 7539",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/f57ded99b9115e6d26b60181701796b9d45f3a82_354_255.jpg",
+            "last_published_date": "2014-11-30 01:18:17",
+            "county": "London",
+            "price": "980",
+            "listing_id": "32356677"
+        },
+        {
+            "image_caption": "Picture No.01",
+            "rental_prices": {
+                "per_week": "875",
+                "accurate": "per_week",
+                "per_month": "3792"
+            },
+            "status": "to_rent",
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "1",
+            "agent_name": "Keatons - Shoreditch",
+            "latitude": 51.51187,
+            "agent_address": "6-8 Great Eastern Street",
+            "num_recepts": "0",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.07569,
+            "first_published_date": "2013-05-14 00:19:30",
+            "displayable_address": "St Johns House, 50 Vine Street, London EC3N",
+            "street_name": "50 Vine Street London",
+            "num_bathrooms": "0",
+            "thumbnail_url": "http://li.zoocdn.com/6f149b08b6ece1c35b371e03ae537696f181ea9c_80_60.jpg",
+            "description": "Exclusively available on a short term rental is this selection of superbly furnished serviced one bedroom apartments within easy reach of London's financial district, located on a quiet side street close to local restaurants, coffee shops and bars and the excellent facilities of St. Katherines Dock. Apartments are fully furnished and equipped with all modern conveniences and contemporary design and modern. There is a maid service, broadband and utilities are included (excl telephone calls). Prices are subject to date and duration of Stay. Minimum stay 7 nights. Vat charged at 20% for the first 28 days and 4% thereafter.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/28972517?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(56069).jpeg",
+            "price_change": [
+                {
+                    "date": "2013-05-13 17:35:39",
+                    "price": "875.00"
+                }
+            ],
+            "short_description": "Exclusively available on a short term rental is this selection of superbly furnished serviced one bedroom apartments within easy reach of London's financial district, located on a quiet side street close to local restaurants, coffee shops and bars and the excellent facilities of St. (contd...)",
+            "agent_phone": "020 7768 1145",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/6f149b08b6ece1c35b371e03ae537696f181ea9c_354_255.jpg",
+            "last_published_date": "2014-11-27 12:19:03",
+            "county": "London",
+            "price": "875",
+            "listing_id": "28972517"
+        },
+        {
+            "rental_prices": {
+                "per_week": "595",
+                "accurate": "per_week",
+                "per_month": "2578"
+            },
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "2",
+            "latitude": 51.510883,
+            "agent_address": "Unit 10, 8 Duncan Street",
+            "property_type": "Flat",
+            "letting_fees": "Â£45 Per Person for referencesÂ£150 Per property for tenancy AgreementÂ£50 for deposit protectionThese are the only ''Agents'' Fees",
+            "longitude": -0.077403,
+            "thumbnail_url": "http://li.zoocdn.com/72631fefdc831a8930c741e49f5fcd364e682f96_80_60.jpg",
+            "description": "A spacious two bedroom, two bathroom apartment set within a portered development 2 mins walk from The Tower of London.A stones throw from Fenchurch Street Station and alos Tower Hill Station.&gt; Two Bedroom / Two Bathroom&gt; Furnished&gt; 5th floor with lift access&gt; 850 sq ft (approx)&gt; 12 hr porter service&gt; Fully fitted kitchen&gt; Secure video-entry system&gt; Located in the heart of the CityPepys Street provides a fantastic location very clsoe to a great range of City cafes and restaurants, while the fine eateries and amenities in Shad Thames are also within walking distance.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/16688418?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "short_description": "A spacious two bedroom, two bathroom apartment set within a portered development 2 mins walk from The Tower of London.",
+            "outcode": "EC3N",
+            "county": "London",
+            "price": "595",
+            "listing_id": "16688418",
+            "image_caption": "",
+            "status": "to_rent",
+            "agent_name": "Aspire Estates",
+            "num_recepts": "0",
+            "country": "England",
+            "displayable_address": "Pepys Street, London EC3N",
+            "first_published_date": "2014-11-08 10:02:14",
+            "street_name": "",
+            "num_bathrooms": "0",
+            "price_change": [
+                {
+                    "date": "2014-11-08 08:44:18",
+                    "price": "595.00"
+                }
+            ],
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(38791).jpeg",
+            "agent_phone": "020 3318 8288",
+            "image_url": "http://li.zoocdn.com/72631fefdc831a8930c741e49f5fcd364e682f96_354_255.jpg",
+            "last_published_date": "2014-11-27 17:23:11"
+        },
+        {
+            "image_caption": "",
+            "rental_prices": {
+                "per_week": "595",
+                "accurate": "per_week",
+                "per_month": "2578"
+            },
+            "status": "to_rent",
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "2",
+            "agent_name": "Victorstone Property Consultants",
+            "latitude": 51.510883,
+            "agent_address": "53 Hanbury Street",
+            "num_recepts": "1",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.077403,
+            "first_published_date": "2014-11-27 14:56:03",
+            "displayable_address": "Pepys Street, Tower Hill, London EC3N",
+            "street_name": "Pepys Street",
+            "num_bathrooms": "2",
+            "thumbnail_url": "http://li.zoocdn.com/926b754ca0a84e3dd2006ba7c994b41941c3d157_80_60.jpg",
+            "description": "We bring to the market this stunning two bedroom apartment located on the 5th floor of a portered development. The property comprises of entrance hallway with storage cupboard, open plan lounge kitchen, 2 bedrooms, master en-suite and shower room. The property benefits from modern decor and furnishings, both bedrooms come with built in wardrobes. Ideally situated for transport links and local amenities. We expect a high level of interest and advise early viewings to avoid disappointment.You may download, store and use the material for your own personal use and research. You may not republish, retransmit, redistribute or otherwise make the material available to any party or make the same available on any website, online service or bulletin board of your own or of any other party or make the same available in hard copy or in any other media without the website owner's express prior written consent. The website owner's copyright must remain on all reproductions of material taken from this website.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/35295518?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(253503).png",
+            "price_change": [
+                {
+                    "date": "2014-11-27 13:40:05",
+                    "price": "595.00"
+                }
+            ],
+            "short_description": "We bring to the market this stunning two bedroom apartment located on the 5th floor of a portered development. The property comprises of entrance hallway with storage cupboard, open plan lounge kitchen, 2 bedrooms, master en-suite and shower room. The property benefits from modern decor and furnishings, both bedrooms come with built in wardrobes. Ideally situated for transport links and local amenities. We expect a high level of interest and advise early viewings to avoid disappointment.",
+            "agent_phone": "020 3318 7348",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/926b754ca0a84e3dd2006ba7c994b41941c3d157_354_255.jpg",
+            "last_published_date": "2014-11-29 04:25:02",
+            "county": "London",
+            "price": "595",
+            "listing_id": "35295518"
+        },
+        {
+            "image_caption": "Living Room",
+            "rental_prices": {
+                "per_week": "550",
+                "accurate": "per_week",
+                "per_month": "2383"
+            },
+            "status": "to_rent",
+            "num_floors": "1",
+            "listing_status": "rent",
+            "num_bedrooms": "1",
+            "agent_name": "Central London Lets",
+            "latitude": 51.510883,
+            "agent_address": "5-25 Scrutton Street",
+            "num_recepts": "1",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.077403,
+            "first_published_date": "2014-11-17 17:01:24",
+            "displayable_address": "Pepys Street, London EC3N",
+            "street_name": "Pepys Street",
+            "num_bathrooms": "1",
+            "thumbnail_url": "http://li.zoocdn.com/88bbd5729b4784823746537ddb196042a6892cb1_80_60.jpg",
+            "description": "Superb quality - short let - price includes all bills & wifi - no hidden charges or additional fees.A very light and bright apartment in good order in this well established and very popular portered building in prime Tower Hill. Located at the south east corner of the square mile this building is just a 2 minute walk from Tower Hill and Fenchurch Street stations, and short walking distance to such sights as Tower Bridge, the Shad Thames, St Kathrines Docks and Spitalfields.â€¢ All bills included.â€¢ Flexible terms of stay available.â€¢ No hidden charges or additional fees.",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/35191097?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(164762).png",
+            "price_change": [
+                {
+                    "date": "2014-11-17 17:00:23",
+                    "price": "550.00"
+                }
+            ],
+            "short_description": "Superb quality - short let - price includes all bills &amp; wifi - no hidden charges or additional fees.  A very light and bright apartment in good order in this well established and very popular portered building in prime Tower Hill.",
+            "agent_phone": "020 3641 2001",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/88bbd5729b4784823746537ddb196042a6892cb1_354_255.jpg",
+            "last_published_date": "2014-11-26 14:22:24",
+            "county": "London",
+            "price": "550",
+            "listing_id": "35191097"
+        },
+        {
+            "image_caption": "",
+            "rental_prices": {
+                "per_week": "530",
+                "accurate": "per_week",
+                "per_month": "2297"
+            },
+            "status": "to_rent",
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "1",
+            "agent_name": "Oliver Knights",
+            "latitude": 51.510883,
+            "agent_address": "Unit 50 Limeharbour Skylines Village",
+            "num_recepts": "0",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.077403,
+            "first_published_date": "2014-11-18 01:15:32",
+            "displayable_address": "London, Tower Hill EC3N",
+            "street_name": "London Tower Hill EC3N 2NU",
+            "num_bathrooms": "0",
+            "thumbnail_url": "http://li.zoocdn.com/1f7e903b67787a050bd888f227f52c1c4dab30c9_80_60.jpg",
+            "description": "Oliver Knights are proud to present this bright and spacious modern one bedroom apartment. Superbly located in this historic location moments from the Tower of London, nestled in the heart of the City of London. This property benefits from daytime concierge and a quiet location.Pepys Street is well placed for transport links with Tower Hill and Tower Gateway stations close by for easy access throughout the City and towards Canary Wharf and the West End. A must see!To avoid disappointment, arrange your viewing with us on .BedroomBedroomBathroomReceptionGarage",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/35195480?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(244505).png",
+            "price_change": [
+                {
+                    "date": "2014-11-17 17:21:39",
+                    "price": "530.00"
+                }
+            ],
+            "short_description": "Oliver Knights are proud to present this bright and spacious modern one bedroom apartment. Superbly located in this historic location moments from the Tower of London, nestled in the heart of the City of London. This property benefits from daytime concierge and a quiet location. Pepys Street is...",
+            "agent_phone": "020 8128 0390",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/1f7e903b67787a050bd888f227f52c1c4dab30c9_354_255.jpg",
+            "last_published_date": "2014-11-27 03:58:20",
+            "county": "London",
+            "price": "530",
+            "listing_id": "35195480"
+        },
+        {
+            "image_caption": "",
+            "rental_prices": {
+                "per_week": "500",
+                "accurate": "per_week",
+                "per_month": "2167"
+            },
+            "status": "to_rent",
+            "num_floors": "0",
+            "listing_status": "rent",
+            "num_bedrooms": "1",
+            "agent_name": "Oliver Knights",
+            "latitude": 51.510883,
+            "agent_address": "65 Fonthill Road",
+            "num_recepts": "0",
+            "property_type": "Flat",
+            "country": "England",
+            "longitude": -0.077403,
+            "first_published_date": "2014-11-07 02:41:49",
+            "displayable_address": "Pepys Street, London EC3N",
+            "street_name": "Pepys Street London",
+            "num_bathrooms": "0",
+            "thumbnail_url": "http://li.zoocdn.com/9ea4df985ef688520df0930fbdb3707c35bf1dcd_80_60.jpg",
+            "description": "Oliver Knights are proud to present this bright and spacious modern one bedroom apartment. Superbly located in this historic location moments from the Tower of London, nestled in the heart of the City of London. This property benefits from daytime concierge and a quiet location.Pepys Street is well placed for transport links with Tower Hill and Tower Gateway stations close by for easy access throughout the City and towards Canary Wharf and the West End. A must see!Contact us now to arrange an internal inspection .ApartmentBedroom1Bathroom`1Kitchen1Reception1",
+            "post_town": "London",
+            "details_url": "http://www.zoopla.co.uk/to-rent/details/35091982?utm_source=v1:8a6VSjnPHRmN_grzZOso4jLuOBEq1rOK&utm_medium=api",
+            "agent_logo": "http://st.zoocdn.com/zoopla_static_agent_logo_(256075).png",
+            "price_change": [
+                {
+                    "date": "2014-11-06 17:22:13",
+                    "price": "560.00"
+                },
+                {
+                    "date": "2014-11-26 17:21:56",
+                    "price": "500.00"
+                }
+            ],
+            "short_description": "Oliver Knights are proud to present this bright and spacious modern one bedroom apartment. Superbly located in this historic location moments from the Tower of London, nestled in the heart of the City of London. This property benefits from daytime concierge and a quiet location. Pepys Street is...",
+            "agent_phone": "020 8128 4476",
+            "outcode": "EC3N",
+            "image_url": "http://li.zoocdn.com/9ea4df985ef688520df0930fbdb3707c35bf1dcd_354_255.jpg",
+            "last_published_date": "2014-11-27 16:08:31",
+            "county": "London",
+            "price": "500",
+            "listing_id": "35091982"
+        }
+    ],
+    "street": "",
+    "town": "",
+    "latitude": 51.511499,
+    "county": "",
+    "bounding_box": {
+        "longitude_min": "-0.08054499999999998",
+        "latitude_min": "51.508602",
+        "longitude_max": "-0.07168799999999997",
+        "latitude_max": "51.514396"
+    },
+    "postcode": ""
+}
