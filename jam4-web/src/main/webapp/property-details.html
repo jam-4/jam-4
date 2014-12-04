@@ -1,16 +1,23 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-lg-4">
-            <img ng-src="{{property_details.image_url}}" />
-        </div>
-        <div class="col-lg-4">{{property_details.description}}</div>
-        <div class="col-lg-4">
-            <input type="button" class="btn btn-primary btn-block" value="Arrange a viewing" />
-            <input type="button" class="btn btn-primary btn-block" value="See a Mortgage Advisor" />
-            <div>
-                Want to look at this again later? Email the details to yourself!<br />
-                <input type="text" placeholder="you@email.com" class="form-control" />
-                <input type="button" value="Email me" class="btn btn-primary" />
+        <div class="propertyDetails">
+            <div class="col-lg-4">
+                <img ng-src="{{property_details.image_url}}" />
+            </div>
+            <div class="col-lg-4">{{property_details.description}}</div>
+            <div class="col-lg-4">
+                <a class="btn btn-primary active" role="button" href="index.html" onClick="history.back();return false;">Back</a>
+
+                <div class="appointmentControls">
+                    <input type="button" class="btn btn-primary btn-block" value="Arrange a viewing" />
+                    <input type="button" class="btn btn-primary btn-block" value="See a Mortgage Advisor" />
+                </div>
+
+                <div class="emailControls">
+                    Want to look at this again later?<br />
+                    <input type="text" placeholder="you@email.com" class="form-control" />
+                    <input type="button" value="Email me" class="btn btn-primary" />
+                </div>
             </div>
         </div>
     </div>

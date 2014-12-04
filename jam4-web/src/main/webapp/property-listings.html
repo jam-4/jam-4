@@ -1,13 +1,17 @@
-<h4>Property listings in Tower Hill</h4>
+<h4>Property listings in Surrey KT16</h4>
 
 <div class="container-fluid">
     <div class="row" ng-repeat="property in properties.listing">
-        <div class="col-lg-3">
-            <img ng-src="{{property.thumbnail_url}}"/>
-        </div>
-        <div class="col-lg-9">
-            <div>{{property.short_description}}</div>
-            <a href="#/property/{{property.listing_id}}">More details...</a>
+        <div class="properyListing">
+            <div class="col-lg-3">
+                <a class="propertyImageLink"  href="#/property/{{property.listing_id}}">
+                    <img class="propertyImage" ng-src="{{property.image_url}}"/>
+                </a>
+            </div>
+            <div class="col-lg-9">
+                <div class="propertyDescription">{{property.short_description}}</div>
+                <a class="btn btn-primary active" role="button" href="#/property/{{property.listing_id}}">More details...</a>
+            </div>
         </div>
     </div>
 </div>
