@@ -3,7 +3,7 @@
 var lloydsHomeApp = angular.module('lloydsHomeApp', ['ngRoute', 'lloydsHomeControllers']);
 
 lloydsHomeApp.config(['$routeProvider',
-    function($routeProvider) {
+    function ($routeProvider) {
         $routeProvider.
             when('/properties', {
                 templateUrl: 'property-listings.html',

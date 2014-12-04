@@ -1,21 +1,19 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-4">
-            <img ng-src="{{property_details.image_url}}"/>
+            <img ng-src="{{property_details.image_url}}" />
         </div>
         <div class="col-lg-4">{{property_details.description}}</div>
         <div class="col-lg-4">
+            <input type="button" class="btn btn-primary btn-block" value="Arrange a viewing" />
+            <input type="button" class="btn btn-primary btn-block" value="See a Mortgage Advisor" />
             <div>
-                <a href="">Arrange a viewing</a>
-            </div>
-            <div>
-                <a href="">See a Mortgage Advisor</a>
-            </div>
-            <div>
-                Want to look at this again later? Email the details to yourself!<br/>
-                <input type="text" placeholder="you@email.address"/>
-                <input type="button" value="Email me"/>
+                Want to look at this again later? Email the details to yourself!<br />
+                <input type="text" placeholder="you@email.com" class="form-control" />
+                <input type="button" value="Email me" class="btn btn-primary" />
             </div>
         </div>
     </div>
 </div>
+
+<script src="http://maps.gstatic.com/maps-api-v3/api/js/18/16/intl/en_gb/main.js"></script>

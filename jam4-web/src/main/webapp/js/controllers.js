@@ -17,7 +17,6 @@ lloydsHomeControllers.controller('PropertyDetailsController', [
         function ($scope, $routeParams, $http) {
             $http.get('http://localhost:8082/jam4-web/api/property/' + $routeParams.listing_id).success(function(data) {
                 $scope.property_details = data.listing[0];
-                console.log($scope.property_details);
             });
         }]
 );
