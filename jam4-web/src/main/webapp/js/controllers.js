@@ -4,7 +4,7 @@ lloydsHomeControllers.controller('PropertyListingsController', [
         '$scope',
         '$http',
         function ($scope, $http) {
-            $http.get('api/property/area/Tower%20Hill').success(function(data) {
+            $http.get('api/property/area/Surrey+KT16').success(function(data) {
                 $scope.properties = data;
             });
         }]
