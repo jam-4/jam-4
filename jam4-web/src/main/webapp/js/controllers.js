@@ -1,3 +1,5 @@
+'use strict';
+
 var lloydsHomeControllers = angular.module('lloydsHomeControllers', []);
 
 lloydsHomeControllers.controller('PropertyListingsController', [
@@ -14,14 +16,9 @@ lloydsHomeControllers.controller('PropertyDetailsController', [
         '$scope',
         '$routeParams',
         '$http',
-        uiGmapGoogleMapApi,
         function ($scope, $routeParams, $http) {
             $http.get('api/property/' + $routeParams.listing_id).success(function (data) {
                 $scope.property_details = data.listing[0];
-            });
-
-            uiGmapGoogleMapApi.then(function(maps) {
-
             });
         }]
 );
