@@ -16,3 +16,12 @@ body {
 .appointmentControls {}
 
 .emailControls {}
+
+#map-canvas {
+    height: 500px;
+    width: 500px;
+}
+
+.angular-google-map-container {
+    height: 400px;
+}

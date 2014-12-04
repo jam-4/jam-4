@@ -1,8 +1,8 @@
 'use strict';
 
-var lloydsHomeApp = angular.module('lloydsHomeApp', ['ngRoute', 'lloydsHomeControllers']);
+var lloydsHomeApp = angular.module('lloydsHomeApp', ['ngRoute', 'lloydsHomeControllers', 'uiGmapgoogle-maps']);
 
-lloydsHomeApp.config(['$routeProvider',
+lloydsHomeApp.config(['$routeProvider', '$provide',
     function ($routeProvider) {
         $routeProvider.
             when('/properties', {
@@ -18,3 +18,10 @@ lloydsHomeApp.config(['$routeProvider',
             });
     }
 ]);
+
+lloydsHomeApp.config(function(uiGmapGoogleMapApiProvider) {
+    uiGmapGoogleMapApiProvider.configure({
+        key: 'AIzaSyAiic1aOhd6zx-0gYDZF5MIqmPW0xxiPLs',
+        v: '3.17'
+    });
+});
